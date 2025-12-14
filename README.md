@@ -6,6 +6,7 @@
 </div>
 
 # Better-COC
+(My first mod EVER)
 ## A gorilla tag mod that adjusts the COC.
 ## <i>Installation</i>
 Download the latest release DLL or zip [here](https://github.com/sevisadev/Better-COC/releases/latest). You will need Bepinex installed, this mod only requires utila with can be found in Monke Mod Manger! Then drag the file into your plugins and unzip it, if not a zip your good to go!
